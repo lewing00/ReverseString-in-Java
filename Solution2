@@ -1,6 +1,6 @@
 //Solution2 begins to explore the toolkit provided by the StringBuilder class. Behind the code, not much more is going on in this solution than Solution1. The biggest 
 //difference is that instead of concatenating via an operation I am using the append method of the StringBuilder class to the build the string, one character at a time
-//starting with the last char.
+//starting with the last char. For further reading on the StringBuilder class = https://docs.oracle.com/javase/tutorial/java/data/buffers.html
 //In this solution I also show how System.out.println and System.out.print differ in the output look compared to using only System.out.println in Solution1
 
 import java.util.Scanner;
